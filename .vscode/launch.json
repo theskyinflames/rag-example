@@ -1,0 +1,18 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Package",
+      "type": "go",
+      "request": "launch",
+      "mode": "auto",
+      "program": "${fileDirname}",
+      "env": {
+        "OPENAI_API_KEY": "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"
+      }
+    }
+  ]
+}
